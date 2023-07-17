@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T07:08:09.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oI1RscdOLBHXHFxt3Avx" version="21.6.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-17T07:09:14.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PGLCFeD1bggAdiOpDIzt" version="21.6.2" type="github" pages="8">
   <diagram name="login_sequence" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -449,7 +449,7 @@
         <mxCell id="Y5nbzQ31DEkgS4DuLqEm-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Ym5JQI_lBDCqSoLkeHiS-7">
           <mxGeometry x="45" y="460" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ym5JQI_lBDCqSoLkeHiS-9" value="7. Input informasi user" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="Ym5JQI_lBDCqSoLkeHiS-9" value="8. Input informasi user" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.0023" width="160" relative="1" as="geometry">
             <mxPoint x="54.5" y="400" as="sourcePoint" />
             <mxPoint x="275" y="400" as="targetPoint" />
@@ -486,7 +486,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9GXZp28mYIUE9MgRBDQw-5" value="10. Return Result" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1" target="Y5nbzQ31DEkgS4DuLqEm-4">
+        <mxCell id="9GXZp28mYIUE9MgRBDQw-5" value="11. Return Result" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1" target="Y5nbzQ31DEkgS4DuLqEm-4">
           <mxGeometry x="-0.0027" y="-5" relative="1" as="geometry">
             <mxPoint x="510" y="530" as="targetPoint" />
             <mxPoint x="715" y="530.0011111111111" as="sourcePoint" />
@@ -503,7 +503,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9GXZp28mYIUE9MgRBDQw-8" value="6. tampilan profile" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="9GXZp28mYIUE9MgRBDQw-8" value="7. tampilan profile" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0027" y="-5" relative="1" as="geometry">
             <mxPoint x="50" y="340.0011111111111" as="targetPoint" />
             <mxPoint x="265" y="340" as="sourcePoint" />
@@ -520,7 +520,7 @@
         <mxCell id="9GXZp28mYIUE9MgRBDQw-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="265" y="310" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y5nbzQ31DEkgS4DuLqEm-1" value="9. update user" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" source="Y5nbzQ31DEkgS4DuLqEm-4" target="Y5nbzQ31DEkgS4DuLqEm-5">
+        <mxCell id="Y5nbzQ31DEkgS4DuLqEm-1" value="10. update user" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" source="Y5nbzQ31DEkgS4DuLqEm-4" target="Y5nbzQ31DEkgS4DuLqEm-5">
           <mxGeometry x="0.0023" width="160" relative="1" as="geometry">
             <mxPoint x="500" y="480" as="sourcePoint" />
             <mxPoint x="710" y="480" as="targetPoint" />
@@ -530,7 +530,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y5nbzQ31DEkgS4DuLqEm-2" value="8. Menerima Request" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" source="Y5nbzQ31DEkgS4DuLqEm-3" target="Y5nbzQ31DEkgS4DuLqEm-4">
+        <mxCell id="Y5nbzQ31DEkgS4DuLqEm-2" value="9. Menerima Request" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" source="Y5nbzQ31DEkgS4DuLqEm-3" target="Y5nbzQ31DEkgS4DuLqEm-4">
           <mxGeometry x="0.0023" width="160" relative="1" as="geometry">
             <mxPoint x="285" y="450" as="sourcePoint" />
             <mxPoint x="495" y="450" as="targetPoint" />
@@ -540,7 +540,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y5nbzQ31DEkgS4DuLqEm-6" value="11. request View profile dan&amp;nbsp;&lt;br&gt;menampilkan pesan" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Y5nbzQ31DEkgS4DuLqEm-6" value="12. request View profile dan&amp;nbsp;&lt;br&gt;menampilkan pesan" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0027" y="-5" relative="1" as="geometry">
             <mxPoint x="275" y="560" as="targetPoint" />
             <mxPoint x="485" y="560" as="sourcePoint" />
@@ -550,7 +550,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y5nbzQ31DEkgS4DuLqEm-7" value="12. tampilan profile" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Y5nbzQ31DEkgS4DuLqEm-7" value="13. tampilan profile" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0027" y="-5" relative="1" as="geometry">
             <mxPoint x="50" y="580.0011111111111" as="targetPoint" />
             <mxPoint x="265" y="580" as="sourcePoint" />
@@ -564,6 +564,13 @@
             <Array as="points">
               <mxPoint x="135" y="100" />
             </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y5nbzQ31DEkgS4DuLqEm-9" value="5. Return Result" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0027" y="-5" relative="1" as="geometry">
+            <mxPoint x="500" y="294.58000000000004" as="targetPoint" />
+            <mxPoint x="720" y="294.5811111111111" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
