@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T04:44:16.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E2g0UQeYE8F1s6uETlra" version="21.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-17T04:58:02.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zl6RVB-YuEwwmkDQQkBw" version="21.6.2" type="github" pages="7">
   <diagram name="login_sequence" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -676,7 +676,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BaOVaTz_1a2H1SJGnIVA" name="checkout">
-    <mxGraphModel dx="2759" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -860,7 +860,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KoMgW2GTu0NM-5diGaTW-6" value="update Keranjang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-4" y="278" width="120" height="30" as="geometry" />
+          <mxGeometry x="3" y="313" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KoMgW2GTu0NM-5diGaTW-7" value="17. Memilih Produk yang ingin di&amp;nbsp; hapus" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" edge="1" target="q2iH4PBEXXwUImPrBxHM-2" source="q2iH4PBEXXwUImPrBxHM-1">
           <mxGeometry x="0.0023" width="160" relative="1" as="geometry">
@@ -889,7 +889,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KoMgW2GTu0NM-5diGaTW-11" value="delete Keranjang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-4" y="800" width="110" height="30" as="geometry" />
+          <mxGeometry x="3" y="784" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KoMgW2GTu0NM-5diGaTW-15" value="7. memilih button checkout" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" target="q2iH4PBEXXwUImPrBxHM-2" edge="1">
           <mxGeometry x="0.0023" width="160" relative="1" as="geometry">
