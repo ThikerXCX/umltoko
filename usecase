@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T16:34:53.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="SHSgSwnjaBFY95RQCyke" version="21.6.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-07-17T04:57:59.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EBF2Ngn1DbsSLkXqqnTa" version="21.6.2" type="github" pages="13">
   <diagram name="usecase" id="sbDArSCNvHZ3NOppDqHT">
-    <mxGraphModel dx="1379" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,10 +190,10 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="82SMnSlF28-IGR7uUrQu-79" value="Api Raja Ongkir" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;labelPosition=center;align=center;" parent="1" vertex="1">
+        <mxCell id="82SMnSlF28-IGR7uUrQu-79" value="API Raja Ongkir" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="910" y="95" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="82SMnSlF28-IGR7uUrQu-80" value="APi Midtrans" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;labelPosition=center;align=center;" parent="1" vertex="1">
+        <mxCell id="82SMnSlF28-IGR7uUrQu-80" value="API Midtrans" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="910" y="215" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82SMnSlF28-IGR7uUrQu-82" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="82SMnSlF28-IGR7uUrQu-73" target="82SMnSlF28-IGR7uUrQu-79" edge="1">
@@ -208,19 +208,8 @@
             <mxPoint x="1140.13" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="82SMnSlF28-IGR7uUrQu-84" value="Notifikasi Pembayaran" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="82SMnSlF28-IGR7uUrQu-84" value="callback dan notifikasi" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="770" y="275" width="103.13" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="82SMnSlF28-IGR7uUrQu-85" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="82SMnSlF28-IGR7uUrQu-69" target="82SMnSlF28-IGR7uUrQu-84" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="599.129999999994" y="350" as="sourcePoint" />
-            <mxPoint x="896" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="82SMnSlF28-IGR7uUrQu-86" value="Extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="82SMnSlF28-IGR7uUrQu-85" vertex="1" connectable="0">
-          <mxGeometry x="-0.008" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="82SMnSlF28-IGR7uUrQu-87" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="82SMnSlF28-IGR7uUrQu-84" target="82SMnSlF28-IGR7uUrQu-80" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
