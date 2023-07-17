@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T07:56:03.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Yw1upppeXOv9nYp24oq7" version="21.6.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-17T09:34:11.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SbdAro4X2GlFl45YsF6b" version="21.6.2" type="github" pages="8">
   <diagram name="login_sequence" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
