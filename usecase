@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T14:39:20.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="7bpNG4TE9XlcNuhAGeXz" version="21.6.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-07-19T14:50:23.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="zqcKFmCW19dci7jjPazS" version="21.6.3" type="github" pages="14">
   <diagram name="usecase" id="sbDArSCNvHZ3NOppDqHT">
     <mxGraphModel dx="825" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2090,7 +2090,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OZq7d7pBylPqcUjirwAX" name="Laporan_activity">
-    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="825" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2282,10 +2282,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0QamAcB_ZdhGarAD3xvi-1" value="Activity Diagram callback" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry y="30" width="790" height="600" as="geometry" />
+          <mxGeometry y="30" width="790" height="550" as="geometry" />
         </mxCell>
         <mxCell id="0QamAcB_ZdhGarAD3xvi-2" value="User" style="swimlane;html=1;startSize=20;" parent="0QamAcB_ZdhGarAD3xvi-1" vertex="1">
-          <mxGeometry y="20" width="190" height="580" as="geometry" />
+          <mxGeometry y="20" width="190" height="530" as="geometry" />
         </mxCell>
         <mxCell id="0QamAcB_ZdhGarAD3xvi-3" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="0QamAcB_ZdhGarAD3xvi-2" vertex="1">
           <mxGeometry x="120" y="52" width="50" height="30" as="geometry" />
@@ -2303,7 +2303,7 @@
           <mxGeometry x="20" y="240" width="150" height="37" as="geometry" />
         </mxCell>
         <mxCell id="0QamAcB_ZdhGarAD3xvi-10" value="midtrans" style="swimlane;html=1;startSize=20;" parent="0QamAcB_ZdhGarAD3xvi-1" vertex="1">
-          <mxGeometry x="190" y="20" width="210" height="580" as="geometry" />
+          <mxGeometry x="190" y="20" width="210" height="530" as="geometry" />
         </mxCell>
         <mxCell id="0QamAcB_ZdhGarAD3xvi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="0QamAcB_ZdhGarAD3xvi-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2318,7 +2318,7 @@
           <mxGeometry x="40" y="401" width="150" height="37" as="geometry" />
         </mxCell>
         <mxCell id="0QamAcB_ZdhGarAD3xvi-14" value="Controller" style="swimlane;html=1;startSize=20;" parent="0QamAcB_ZdhGarAD3xvi-1" vertex="1">
-          <mxGeometry x="400" y="20" width="200" height="580" as="geometry" />
+          <mxGeometry x="400" y="20" width="200" height="530" as="geometry" />
         </mxCell>
         <mxCell id="0QamAcB_ZdhGarAD3xvi-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="0QamAcB_ZdhGarAD3xvi-14" source="0QamAcB_ZdhGarAD3xvi-52" target="0QamAcB_ZdhGarAD3xvi-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2336,7 +2336,7 @@
           <mxGeometry x="80.5" y="401" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="0QamAcB_ZdhGarAD3xvi-17" value="model" style="swimlane;html=1;startSize=20;" parent="0QamAcB_ZdhGarAD3xvi-1" vertex="1">
-          <mxGeometry x="600" y="20" width="190" height="580" as="geometry" />
+          <mxGeometry x="600" y="20" width="190" height="530" as="geometry" />
         </mxCell>
         <mxCell id="0QamAcB_ZdhGarAD3xvi-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="0QamAcB_ZdhGarAD3xvi-17" source="0QamAcB_ZdhGarAD3xvi-59" target="0QamAcB_ZdhGarAD3xvi-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
