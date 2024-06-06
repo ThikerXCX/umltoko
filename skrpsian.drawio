@@ -1,9 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T13:46:32.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="21.8.2" etag="9K8wddt27PjBb7zG_l4y" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T13:54:05.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GbOQAhv4ykV8fCMDSiNN" version="24.4.15" type="github">
   <diagram name="Page-1" id="zaWklGw444w4HPKDfQCg">
-    <mxGraphModel>
+    <mxGraphModel dx="765" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NHguR0aR2s1_JDpPaNEO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHguR0aR2s1_JDpPaNEO-1" target="NHguR0aR2s1_JDpPaNEO-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="180" />
+              <mxPoint x="320" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHguR0aR2s1_JDpPaNEO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NHguR0aR2s1_JDpPaNEO-1" target="NHguR0aR2s1_JDpPaNEO-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="180" />
+              <mxPoint x="560" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHguR0aR2s1_JDpPaNEO-1" value="PEMILIK EC COMPUTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHguR0aR2s1_JDpPaNEO-2" value="BAGIAN ADMIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHguR0aR2s1_JDpPaNEO-6" value="BAGIAN TEKNISI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHguR0aR2s1_JDpPaNEO-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="70" width="390" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
