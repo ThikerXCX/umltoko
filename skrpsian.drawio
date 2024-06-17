@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T15:25:00.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vRv-nKCTGF_ds4un1fKU" version="24.4.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T09:29:48.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6iYbXuEZojxrdxWH_Lc7" version="24.4.15" type="github" pages="2">
   <diagram name="Page-1" id="zaWklGw444w4HPKDfQCg">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,76 @@
         </mxCell>
         <mxCell id="_VUrwZCN0Ejg6ik932v3-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="60" width="500" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NY1_aziu3pRgQpqv6Vss" name="Page-2">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJOxgM-8a-taeg_-Q4wU-2" target="hJOxgM-8a-taeg_-Q4wU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-2" value="Pengembangan Teknologi Web Menggunakan Firebase dan Dynamic Report Pada EC Computer" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hJOxgM-8a-taeg_-Q4wU-3" target="hJOxgM-8a-taeg_-Q4wU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-3" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Rumusan Masalah&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Bagaimana mengembangkan Tekbologi web&amp;nbsp; menggunakan firebase dan dynamic report pada EC Computer&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hJOxgM-8a-taeg_-Q4wU-5" target="hJOxgM-8a-taeg_-Q4wU-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="310" />
+              <mxPoint x="440" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-5" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Peluang&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Sistem yang dibangun mampu memenuhi kebutuhan informasi yang dinamis dan mengatasi permasalahan dalam penyimpanan data pada EC Computer&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJOxgM-8a-taeg_-Q4wU-7" target="hJOxgM-8a-taeg_-Q4wU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJOxgM-8a-taeg_-Q4wU-7" target="hJOxgM-8a-taeg_-Q4wU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hJOxgM-8a-taeg_-Q4wU-7" target="hJOxgM-8a-taeg_-Q4wU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-7" value="Website toko online EC Computer" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-9" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Permodelan Sistem&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Unified Modelling Language (UML)&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;ol&gt;&lt;li&gt;Use Case Diagram&lt;/li&gt;&lt;li&gt;Activity Diagram&lt;/li&gt;&lt;li&gt;Class Diagram&lt;/li&gt;&lt;li&gt;Sequence Diagram&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="65" y="420" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hJOxgM-8a-taeg_-Q4wU-10" target="hJOxgM-8a-taeg_-Q4wU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-10" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Metode Pengembangan&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Agile (Extreame Programming)&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="420" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hJOxgM-8a-taeg_-Q4wU-11" target="hJOxgM-8a-taeg_-Q4wU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-11" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Bahasa Pemograman&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;JavaScript&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="625" y="420" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-17" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Tech Stack&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;ol&gt;&lt;li&gt;HTML &amp;amp; CSS&lt;/li&gt;&lt;li&gt;React / Next.js&lt;/li&gt;&lt;li&gt;Node.js&lt;/li&gt;&lt;li&gt;Firebase&lt;/li&gt;&lt;li&gt;Tailwind CSS&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="625" y="550" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hJOxgM-8a-taeg_-Q4wU-19" target="hJOxgM-8a-taeg_-Q4wU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-19" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Pengujian Sistem&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;White Box Testing :&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Basic Path Testing&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="550" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hJOxgM-8a-taeg_-Q4wU-21" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Hasil / Output&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Website Toko Online EC Computer&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="700" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
