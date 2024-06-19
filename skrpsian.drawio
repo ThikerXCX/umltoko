@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T15:21:20.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Z1SbX15fwcBnYJbrFFiF" version="24.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-19T15:25:05.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3ZaAyDr7-fXcYEKF4o5K" version="24.5.4" type="github" pages="5">
   <diagram name="Page-1" id="zaWklGw444w4HPKDfQCg">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -216,12 +216,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="qQJSQreEqMGwT-G8dqXO" name="proses perbaikan">
-    <mxGraphModel dx="2200" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="qQJSQreEqMGwT-G8dqXO" name="proses penerimaan perbaikan">
+    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JsYPTN_B7Unz2enifWrB-1" value="Prosedur Perbaikan" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JsYPTN_B7Unz2enifWrB-1" value="Prosedur Penerimaan Perbaikan" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="20" width="800" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="JsYPTN_B7Unz2enifWrB-2" value="Pelanggan" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="JsYPTN_B7Unz2enifWrB-1">
@@ -364,6 +364,14 @@
         <mxCell id="JsYPTN_B7Unz2enifWrB-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JsYPTN_B7Unz2enifWrB-1" source="JsYPTN_B7Unz2enifWrB-108" target="JsYPTN_B7Unz2enifWrB-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YEQwBf_WiikEjlOrDCGO" name="Proses Pengerjaan perbaikan">
+    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
