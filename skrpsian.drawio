@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T10:09:51.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Fo3KK76Ee--UdrBrp3Zq" version="24.5.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-20T10:22:40.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ECdvRHzFhJsuX5FoeJDe" version="24.5.5" type="github" pages="7">
   <diagram name="Page-1" id="zaWklGw444w4HPKDfQCg">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YEQwBf_WiikEjlOrDCGO" name="Proses Pengerjaan perbaikan">
-    <mxGraphModel dx="1257" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -466,6 +466,9 @@
         </mxCell>
         <mxCell id="pIZ5v0SUS7xpm0qm2I8L-68" value="Admin menginformasikan kepada pelanggan bahwa barang sudah bisa diambil" style="rounded=1;whiteSpace=wrap;html=1;" parent="pIZ5v0SUS7xpm0qm2I8L-18" vertex="1">
           <mxGeometry x="20" y="800" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fls4zfQMF74Qx-TySAdo-3" value="Admin&amp;nbsp; menginformasikan kepada teknisi untuk tidak melanjutkan perbaikan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pIZ5v0SUS7xpm0qm2I8L-18">
+          <mxGeometry x="15" y="580" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pIZ5v0SUS7xpm0qm2I8L-27" value="Teknisi" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="pIZ5v0SUS7xpm0qm2I8L-1" vertex="1">
           <mxGeometry x="400" y="20" width="200" height="990" as="geometry" />
@@ -530,12 +533,15 @@
         <mxCell id="pIZ5v0SUS7xpm0qm2I8L-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="pIZ5v0SUS7xpm0qm2I8L-1" source="pIZ5v0SUS7xpm0qm2I8L-68" target="pIZ5v0SUS7xpm0qm2I8L-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fls4zfQMF74Qx-TySAdo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pIZ5v0SUS7xpm0qm2I8L-1" source="pIZ5v0SUS7xpm0qm2I8L-53" target="pIZ5v0SUS7xpm0qm2I8L-63">
+        <mxCell id="fls4zfQMF74Qx-TySAdo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pIZ5v0SUS7xpm0qm2I8L-1" source="pIZ5v0SUS7xpm0qm2I8L-53" target="fls4zfQMF74Qx-TySAdo-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="725" />
+              <mxPoint x="100" y="630" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fls4zfQMF74Qx-TySAdo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="pIZ5v0SUS7xpm0qm2I8L-1" source="fls4zfQMF74Qx-TySAdo-3" target="pIZ5v0SUS7xpm0qm2I8L-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
