@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T13:42:33.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0GLDLELRGy4yd-RLQU11" version="24.5.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-20T14:08:16.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="klF-n61HX0bkUsOvtMsy" version="24.5.5" type="github" pages="8">
   <diagram name="Page-1" id="zaWklGw444w4HPKDfQCg">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -690,6 +690,69 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="P_2afR9Mk-mx2BC9eQVO" name="Prosedur Pembuatan Laporan">
+    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-1" value="Prosedur Pembuatan Laporan" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="400" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-2" value="Pemilik" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="DnUzbDIi-hm_t_IA8p5W-1">
+          <mxGeometry y="20" width="200" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DnUzbDIi-hm_t_IA8p5W-2" source="DnUzbDIi-hm_t_IA8p5W-4" target="DnUzbDIi-hm_t_IA8p5W-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DnUzbDIi-hm_t_IA8p5W-2">
+          <mxGeometry x="80" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-6" value="Pemilik toko meminta admin utnuk membuat laporan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DnUzbDIi-hm_t_IA8p5W-2">
+          <mxGeometry x="20" y="100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-8" value="pemilik menerima laporan dari admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DnUzbDIi-hm_t_IA8p5W-2">
+          <mxGeometry x="20" y="370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-13" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="DnUzbDIi-hm_t_IA8p5W-2">
+          <mxGeometry x="85" y="460" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="DnUzbDIi-hm_t_IA8p5W-2" source="DnUzbDIi-hm_t_IA8p5W-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="100" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-14" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="DnUzbDIi-hm_t_IA8p5W-1">
+          <mxGeometry x="200" y="20" width="200" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DnUzbDIi-hm_t_IA8p5W-14" source="DnUzbDIi-hm_t_IA8p5W-15" target="DnUzbDIi-hm_t_IA8p5W-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-15" value="admin akan menginput data di excel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DnUzbDIi-hm_t_IA8p5W-14">
+          <mxGeometry x="20" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DnUzbDIi-hm_t_IA8p5W-14" source="DnUzbDIi-hm_t_IA8p5W-7" target="DnUzbDIi-hm_t_IA8p5W-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-7" value="admin akan mengecek hasil penjualan dan perbaikan dari nota dan pembukuan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DnUzbDIi-hm_t_IA8p5W-14">
+          <mxGeometry x="20" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-10" value="admin menyerahkan data kepada pemilik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DnUzbDIi-hm_t_IA8p5W-14">
+          <mxGeometry x="20" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DnUzbDIi-hm_t_IA8p5W-1" source="DnUzbDIi-hm_t_IA8p5W-6" target="DnUzbDIi-hm_t_IA8p5W-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnUzbDIi-hm_t_IA8p5W-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="DnUzbDIi-hm_t_IA8p5W-1" source="DnUzbDIi-hm_t_IA8p5W-10" target="DnUzbDIi-hm_t_IA8p5W-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
