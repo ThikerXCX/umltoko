@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T15:09:15.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="X3v4d2XePp-LTI93JgRF" version="24.7.3" type="github" pages="43">
+<mxfile host="app.diagrams.net" modified="2024-07-23T15:21:43.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Nq_uYOU9fBAS2xw-OT3_" version="24.7.3" type="github" pages="43">
   <diagram name="Page-1" id="zaWklGw444w4HPKDfQCg">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9340,7 +9340,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="activity checkout" id="yVOSLKnHQTUtoji_knSf">
-    <mxGraphModel dx="587" dy="1384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="1t8emeD1HX6Zcna0k84v-0" />
         <mxCell id="1t8emeD1HX6Zcna0k84v-1" parent="1t8emeD1HX6Zcna0k84v-0" />
@@ -9379,7 +9379,7 @@
         <mxCell id="7Q28TWSey1oP7Lzlz3cQ-0" value="menekan button cek ongkir" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="1t8emeD1HX6Zcna0k84v-3" vertex="1">
           <mxGeometry x="15.589999999999577" y="344" width="118.82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7Q28TWSey1oP7Lzlz3cQ-12" value="menekan button checkout" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="1t8emeD1HX6Zcna0k84v-3" vertex="1">
+        <mxCell id="7Q28TWSey1oP7Lzlz3cQ-12" value="menekan button bayar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="1t8emeD1HX6Zcna0k84v-3" vertex="1">
           <mxGeometry x="20.589999999999577" y="394" width="118.82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1t8emeD1HX6Zcna0k84v-10" value="web client" style="swimlane;startSize=20;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#000000;" parent="1t8emeD1HX6Zcna0k84v-2" vertex="1">
