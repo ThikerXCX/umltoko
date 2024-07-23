@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T16:02:38.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="I_8Jj4vMC0eEn6O8PSDt" version="24.7.3" type="github" pages="43">
+<mxfile host="app.diagrams.net" modified="2024-07-23T16:09:16.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5nopgfoWLD7Uz12axJus" version="24.7.3" type="github" pages="43">
   <diagram name="Page-1" id="zaWklGw444w4HPKDfQCg">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8643,7 +8643,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2Kdc4KSFsN0IH9_rCd8V" name="activity riwayat transaksi">
-    <mxGraphModel dx="1035" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8668,7 +8668,7 @@
         <mxCell id="OexY86LoyKBmydUf_A---1" value="login" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="nbxeCaJ4LxZuYU81shMt-2" vertex="1">
           <mxGeometry x="20" y="106" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="nbxeCaJ4LxZuYU81shMt-17" value="Client" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#000000;" parent="nbxeCaJ4LxZuYU81shMt-1" vertex="1">
+        <mxCell id="nbxeCaJ4LxZuYU81shMt-17" value="web client" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#000000;" parent="nbxeCaJ4LxZuYU81shMt-1" vertex="1">
           <mxGeometry x="200" y="23" width="200" height="387" as="geometry" />
         </mxCell>
         <mxCell id="nbxeCaJ4LxZuYU81shMt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nbxeCaJ4LxZuYU81shMt-17" edge="1">
@@ -8730,13 +8730,13 @@
         <mxCell id="nbxeCaJ4LxZuYU81shMt-51" value="" style="ellipse;html=1;shape=endState;fillColor=none;strokeColor=#0A0000;" parent="nbxeCaJ4LxZuYU81shMt-17" vertex="1">
           <mxGeometry x="76.5" y="307" width="47" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="PfsXYTOcJuhvEfvSZ91j-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nbxeCaJ4LxZuYU81shMt-17" source="OexY86LoyKBmydUf_A---7" target="nbxeCaJ4LxZuYU81shMt-51">
+        <mxCell id="PfsXYTOcJuhvEfvSZ91j-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nbxeCaJ4LxZuYU81shMt-17" source="OexY86LoyKBmydUf_A---7" target="nbxeCaJ4LxZuYU81shMt-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OexY86LoyKBmydUf_A---7" value="tampil halaman riwayat transaksi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="nbxeCaJ4LxZuYU81shMt-17" vertex="1">
           <mxGeometry x="20" y="237" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="nbxeCaJ4LxZuYU81shMt-52" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#0D120A;" parent="nbxeCaJ4LxZuYU81shMt-1" vertex="1">
+        <mxCell id="nbxeCaJ4LxZuYU81shMt-52" value="web server" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#0D120A;" parent="nbxeCaJ4LxZuYU81shMt-1" vertex="1">
           <mxGeometry x="400" y="23" width="200" height="387" as="geometry" />
         </mxCell>
         <mxCell id="nbxeCaJ4LxZuYU81shMt-54" value="request data transaksi by id user" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="nbxeCaJ4LxZuYU81shMt-52" vertex="1">
@@ -8773,16 +8773,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PfsXYTOcJuhvEfvSZ91j-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nbxeCaJ4LxZuYU81shMt-1" source="nbxeCaJ4LxZuYU81shMt-6" target="nbxeCaJ4LxZuYU81shMt-29">
+        <mxCell id="PfsXYTOcJuhvEfvSZ91j-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nbxeCaJ4LxZuYU81shMt-1" source="nbxeCaJ4LxZuYU81shMt-6" target="nbxeCaJ4LxZuYU81shMt-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PfsXYTOcJuhvEfvSZ91j-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nbxeCaJ4LxZuYU81shMt-1" source="nbxeCaJ4LxZuYU81shMt-29" target="nbxeCaJ4LxZuYU81shMt-54">
+        <mxCell id="PfsXYTOcJuhvEfvSZ91j-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nbxeCaJ4LxZuYU81shMt-1" source="nbxeCaJ4LxZuYU81shMt-29" target="nbxeCaJ4LxZuYU81shMt-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PfsXYTOcJuhvEfvSZ91j-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nbxeCaJ4LxZuYU81shMt-1" source="nbxeCaJ4LxZuYU81shMt-54" target="OexY86LoyKBmydUf_A---4">
+        <mxCell id="PfsXYTOcJuhvEfvSZ91j-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nbxeCaJ4LxZuYU81shMt-1" source="nbxeCaJ4LxZuYU81shMt-54" target="OexY86LoyKBmydUf_A---4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PfsXYTOcJuhvEfvSZ91j-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nbxeCaJ4LxZuYU81shMt-1" source="OexY86LoyKBmydUf_A---5" target="OexY86LoyKBmydUf_A---7">
+        <mxCell id="PfsXYTOcJuhvEfvSZ91j-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nbxeCaJ4LxZuYU81shMt-1" source="OexY86LoyKBmydUf_A---5" target="OexY86LoyKBmydUf_A---7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
