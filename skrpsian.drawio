@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T07:48:08.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JxIfX-tbu5U5EjtucAyC" version="24.6.5" type="github" pages="42">
+<mxfile host="app.diagrams.net" modified="2024-07-23T08:06:24.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lEe5H80_U6P2a9kSlKx6" version="24.6.5" type="github" pages="42">
   <diagram name="Page-1" id="zaWklGw444w4HPKDfQCg">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -977,7 +977,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case update" id="J0wWQJg9QJRl6eOAGT0H">
-    <mxGraphModel dx="1760" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Ev7JRUKc94EcycG248ay-0" />
         <mxCell id="Ev7JRUKc94EcycG248ay-1" parent="Ev7JRUKc94EcycG248ay-0" />
@@ -1641,7 +1641,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c0F12IWT6uPPkui2cEmj" name="activity register">
-    <mxGraphModel dx="1035" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="374" dy="181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1663,7 +1663,7 @@
         <mxCell id="9zuB0YHRZfHay3EiLV9O-6" value="User menginput credensial" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="9zuB0YHRZfHay3EiLV9O-2" vertex="1">
           <mxGeometry x="20" y="156" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="9zuB0YHRZfHay3EiLV9O-7" value="Client" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;startSize=23;strokeColor=#000000;fontColor=#ffffff;" parent="9zuB0YHRZfHay3EiLV9O-1" vertex="1">
+        <mxCell id="9zuB0YHRZfHay3EiLV9O-7" value="Web Client&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;startSize=23;strokeColor=#000000;fontColor=#ffffff;" parent="9zuB0YHRZfHay3EiLV9O-1" vertex="1">
           <mxGeometry x="200" y="23" width="200" height="697" as="geometry" />
         </mxCell>
         <mxCell id="9zuB0YHRZfHay3EiLV9O-8" value="Menampilkan form register" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="9zuB0YHRZfHay3EiLV9O-7" vertex="1">
@@ -1757,7 +1757,7 @@
         <mxCell id="T-gWNz4oIEUXs4DOEGBW-1" value="Menampilkan halaman login" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="9zuB0YHRZfHay3EiLV9O-7" vertex="1">
           <mxGeometry x="9.75" y="547" width="180.5" height="38.36" as="geometry" />
         </mxCell>
-        <mxCell id="9zuB0YHRZfHay3EiLV9O-15" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;startSize=23;strokeColor=#000000;fontColor=#ffffff;" parent="9zuB0YHRZfHay3EiLV9O-1" vertex="1">
+        <mxCell id="9zuB0YHRZfHay3EiLV9O-15" value="Web Server" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;startSize=23;strokeColor=#000000;fontColor=#ffffff;" parent="9zuB0YHRZfHay3EiLV9O-1" vertex="1">
           <mxGeometry x="400" y="23" width="200" height="697" as="geometry" />
         </mxCell>
         <mxCell id="q4pHi4E4rBVWJUAvt92V-3" value="Request create user" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="9zuB0YHRZfHay3EiLV9O-15" vertex="1">
