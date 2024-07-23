@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T15:30:00.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MhnjAIXKY_owIPvAFZ5L" version="24.7.3" type="github" pages="43">
+<mxfile host="app.diagrams.net" modified="2024-07-23T15:30:49.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sJEWbDJjS8HWkYhbpi_M" version="24.7.3" type="github" pages="43">
   <diagram name="Page-1" id="zaWklGw444w4HPKDfQCg">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9340,7 +9340,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="activity checkout" id="yVOSLKnHQTUtoji_knSf">
-    <mxGraphModel dx="1956" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="1t8emeD1HX6Zcna0k84v-0" />
         <mxCell id="1t8emeD1HX6Zcna0k84v-1" parent="1t8emeD1HX6Zcna0k84v-0" />
@@ -9431,6 +9431,9 @@
         </mxCell>
         <mxCell id="WYer3YvyRJEZg_pllmoO-0" value="menampilkan halaman keranjang" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" vertex="1" parent="1t8emeD1HX6Zcna0k84v-10">
           <mxGeometry x="10.590000000000003" y="190" width="118.82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WYer3YvyRJEZg_pllmoO-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1t8emeD1HX6Zcna0k84v-10" source="WYer3YvyRJEZg_pllmoO-4" target="7Q28TWSey1oP7Lzlz3cQ-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WYer3YvyRJEZg_pllmoO-4" value="update data session" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" vertex="1" parent="1t8emeD1HX6Zcna0k84v-10">
           <mxGeometry x="10.590000000000032" y="850" width="118.82" height="30" as="geometry" />
