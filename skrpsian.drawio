@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T16:09:16.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5nopgfoWLD7Uz12axJus" version="24.7.3" type="github" pages="43">
+<mxfile host="app.diagrams.net" modified="2024-07-24T03:40:31.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nAZNaKD536NOstdz6bMc" version="24.7.1" type="github" pages="43">
   <diagram name="Page-1" id="zaWklGw444w4HPKDfQCg">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2627,7 +2627,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2szmqEWqDKPYE_lLpstW" name="activity tambah kategori">
-    <mxGraphModel dx="1467" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2679,7 +2679,7 @@
         <mxCell id="4D8PWCQfHqu1FAzfLbjI-43" value="menginput kategori" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="MKyeP98Hmtg5ucQ6M1Es-2" vertex="1">
           <mxGeometry x="20" y="516" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="MKyeP98Hmtg5ucQ6M1Es-7" value="Client" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#000000;" parent="MKyeP98Hmtg5ucQ6M1Es-1" vertex="1">
+        <mxCell id="MKyeP98Hmtg5ucQ6M1Es-7" value="Web Client" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#000000;" parent="MKyeP98Hmtg5ucQ6M1Es-1" vertex="1">
           <mxGeometry x="200" y="23" width="200" height="937" as="geometry" />
         </mxCell>
         <mxCell id="MKyeP98Hmtg5ucQ6M1Es-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="MKyeP98Hmtg5ucQ6M1Es-7" edge="1">
@@ -2764,7 +2764,7 @@
         <mxCell id="4D8PWCQfHqu1FAzfLbjI-51" value="menampilkan pesan eror" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="MKyeP98Hmtg5ucQ6M1Es-7" vertex="1">
           <mxGeometry x="20" y="693" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="akC0OLa_TFdUXbQDtt3T-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MKyeP98Hmtg5ucQ6M1Es-7" source="4D8PWCQfHqu1FAzfLbjI-64" target="KkMPH8l89L5RT8-j-jkn-71">
+        <mxCell id="akC0OLa_TFdUXbQDtt3T-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="MKyeP98Hmtg5ucQ6M1Es-7" source="4D8PWCQfHqu1FAzfLbjI-64" target="KkMPH8l89L5RT8-j-jkn-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4D8PWCQfHqu1FAzfLbjI-64" value="menampilkan pesan" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="MKyeP98Hmtg5ucQ6M1Es-7" vertex="1">
@@ -2779,7 +2779,7 @@
         <mxCell id="KkMPH8l89L5RT8-j-jkn-75" value="" style="ellipse;html=1;shape=endState;fillColor=none;strokeColor=#0A0000;" parent="MKyeP98Hmtg5ucQ6M1Es-7" vertex="1">
           <mxGeometry x="76.5" y="873" width="47" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="MKyeP98Hmtg5ucQ6M1Es-28" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#0D120A;" parent="MKyeP98Hmtg5ucQ6M1Es-1" vertex="1">
+        <mxCell id="MKyeP98Hmtg5ucQ6M1Es-28" value="Web Server" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#0D120A;" parent="MKyeP98Hmtg5ucQ6M1Es-1" vertex="1">
           <mxGeometry x="400" y="23" width="200" height="937" as="geometry" />
         </mxCell>
         <mxCell id="4D8PWCQfHqu1FAzfLbjI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="MKyeP98Hmtg5ucQ6M1Es-28" source="4D8PWCQfHqu1FAzfLbjI-7" target="MKyeP98Hmtg5ucQ6M1Es-24" edge="1">
