@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T04:02:42.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pjOjWcecjjMDq6OEJhH7" version="24.7.1" type="github" pages="43">
+<mxfile host="app.diagrams.net" modified="2024-07-24T04:21:12.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BzK2mcvVOTIzdWu73e7G" version="24.7.1" type="github" pages="43">
   <diagram name="Page-1" id="zaWklGw444w4HPKDfQCg">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2967,7 +2967,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="activity edit kategori" id="EqFXAegqnj61t5QIJHbI">
-    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="DBu6rYtJiVmte8bkg8uH-0" />
         <mxCell id="DBu6rYtJiVmte8bkg8uH-1" parent="DBu6rYtJiVmte8bkg8uH-0" />
@@ -3295,11 +3295,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="activity delete kategori" id="K_8QIiN8QgEairL3Edi6">
-    <mxGraphModel dx="1173" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LG2foXzFj6nfGjgl9z9p-0" />
         <mxCell id="LG2foXzFj6nfGjgl9z9p-1" parent="LG2foXzFj6nfGjgl9z9p-0" />
-        <mxCell id="LG2foXzFj6nfGjgl9z9p-2" value="Activity Delete Kategori&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="LG2foXzFj6nfGjgl9z9p-1" vertex="1">
+        <mxCell id="LG2foXzFj6nfGjgl9z9p-2" value="Activity Hapus Kategori&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="LG2foXzFj6nfGjgl9z9p-1" vertex="1">
           <mxGeometry x="15" y="10" width="820" height="940" as="geometry" />
         </mxCell>
         <mxCell id="LG2foXzFj6nfGjgl9z9p-3" value="Admin" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="LG2foXzFj6nfGjgl9z9p-2" vertex="1">
@@ -3331,7 +3331,7 @@
         <mxCell id="LG2foXzFj6nfGjgl9z9p-10" value="" style="line;strokeWidth=5;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=13;" parent="LG2foXzFj6nfGjgl9z9p-3" vertex="1">
           <mxGeometry x="25" y="436" width="150" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="LG2foXzFj6nfGjgl9z9p-18" value="Client" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#000000;" parent="LG2foXzFj6nfGjgl9z9p-2" vertex="1">
+        <mxCell id="LG2foXzFj6nfGjgl9z9p-18" value="Web Client&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#000000;" parent="LG2foXzFj6nfGjgl9z9p-2" vertex="1">
           <mxGeometry x="200" y="23" width="200" height="917" as="geometry" />
         </mxCell>
         <mxCell id="LG2foXzFj6nfGjgl9z9p-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LG2foXzFj6nfGjgl9z9p-18" edge="1">
@@ -3411,7 +3411,7 @@
         <mxCell id="LG2foXzFj6nfGjgl9z9p-49" value="mengirim id kategori" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="LG2foXzFj6nfGjgl9z9p-18" vertex="1">
           <mxGeometry x="19.5" y="613" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="LG2foXzFj6nfGjgl9z9p-53" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#0D120A;" parent="LG2foXzFj6nfGjgl9z9p-2" vertex="1">
+        <mxCell id="LG2foXzFj6nfGjgl9z9p-53" value="Web Server" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;startSize=23;strokeColor=#0D120A;" parent="LG2foXzFj6nfGjgl9z9p-2" vertex="1">
           <mxGeometry x="400" y="23" width="200" height="917" as="geometry" />
         </mxCell>
         <mxCell id="LG2foXzFj6nfGjgl9z9p-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LG2foXzFj6nfGjgl9z9p-53" source="LG2foXzFj6nfGjgl9z9p-55" target="LG2foXzFj6nfGjgl9z9p-58" edge="1">
@@ -3571,7 +3571,7 @@
             <mxPoint x="110" y="444" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hUDB6oXjcp_WHLKyIizf-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="LG2foXzFj6nfGjgl9z9p-2" source="LG2foXzFj6nfGjgl9z9p-69" target="LG2foXzFj6nfGjgl9z9p-31">
+        <mxCell id="hUDB6oXjcp_WHLKyIizf-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="LG2foXzFj6nfGjgl9z9p-2" source="LG2foXzFj6nfGjgl9z9p-69" target="LG2foXzFj6nfGjgl9z9p-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
