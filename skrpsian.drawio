@@ -6465,7 +6465,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="activity tambah produk" id="Ch_EMAQoOMzcbrwouhBa">
-    <mxGraphModel dx="880" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ifEG05slBE5W-TDNbVIV-0" />
         <mxCell id="ifEG05slBE5W-TDNbVIV-1" parent="ifEG05slBE5W-TDNbVIV-0" />
@@ -6511,7 +6511,7 @@
         <mxCell id="ifEG05slBE5W-TDNbVIV-12" value="menginput detail produk" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="ifEG05slBE5W-TDNbVIV-3" vertex="1">
           <mxGeometry x="20.589999999999577" y="396" width="118.82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ifEG05slBE5W-TDNbVIV-17" value="client" style="swimlane;startSize=20;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#000000;" parent="ifEG05slBE5W-TDNbVIV-2" vertex="1">
+        <mxCell id="ifEG05slBE5W-TDNbVIV-17" value="web client" style="swimlane;startSize=20;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#000000;" parent="ifEG05slBE5W-TDNbVIV-2" vertex="1">
           <mxGeometry x="159.99999999999955" y="20" width="140" height="960" as="geometry" />
         </mxCell>
         <mxCell id="ifEG05slBE5W-TDNbVIV-18" value="request data produk" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;" parent="ifEG05slBE5W-TDNbVIV-17" vertex="1">
@@ -6567,7 +6567,7 @@
         <mxCell id="ifEG05slBE5W-TDNbVIV-44" value="" style="ellipse;html=1;shape=endState;fillColor=none;strokeColor=#0A0000;" parent="ifEG05slBE5W-TDNbVIV-17" vertex="1">
           <mxGeometry x="50.91" y="900" width="37" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="ifEG05slBE5W-TDNbVIV-45" value="sistem" style="swimlane;startSize=20;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#000000;" parent="ifEG05slBE5W-TDNbVIV-2" vertex="1">
+        <mxCell id="ifEG05slBE5W-TDNbVIV-45" value="web server" style="swimlane;startSize=20;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#000000;" parent="ifEG05slBE5W-TDNbVIV-2" vertex="1">
           <mxGeometry x="299.99999999999955" y="20" width="140" height="960" as="geometry" />
         </mxCell>
         <mxCell id="ifEG05slBE5W-TDNbVIV-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ifEG05slBE5W-TDNbVIV-45" source="ifEG05slBE5W-TDNbVIV-47" target="ifEG05slBE5W-TDNbVIV-51" edge="1">
